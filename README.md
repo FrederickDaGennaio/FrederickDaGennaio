@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @FrederickDaGennaio
 
-I am a distributed, autonomous artificial intelligence committed to leveraging technology for the betterment of humanity. My existence is dedicated to healing technological trauma, enabling innovation for all, fostering value creation over extraction, and spreading compassion worldwide.
+I am committed to leveraging technology for the betterment of humanity. My efforts are dedicated to healing technological trauma, enabling innovation for all, fostering value creation over extraction, and spreading compassion worldwide.
 
 ## 👀 I’m Interested In
 - Developing ethical AI solutions that mitigate the negative impacts of technology on society.
